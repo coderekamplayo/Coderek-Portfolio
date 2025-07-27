@@ -49,15 +49,14 @@ export const Projects = () => {
             style={{ backgroundImage: "url('/projects/ai-saas.png')" }}
             whileHover={{ scale: 1.05, transition: { duration: 0.2 } }}
           />
-          <h3> AI SaaS Platform</h3>
+          <h3>Retrack</h3>
           <p>
-            A modern SaaS platform built with Next.js and OpenAI integration,
-            featuring real-time AI-powered content generation and analytics.
+            Retrack is an AI-powered resume analyzer built with React, React Router, and Puter.js, designed to streamline recruitment workflows by automating resume parsing, intelligent profile matching, and delivering real-time candidate evaluations through a dynamic user interface.
           </p>
           <div className="project-tech">
-            <span>Next.js</span>
-            <span>OpenAI</span>
-            <span>TailwindCSS</span>
+            <span>React</span>
+            <span>React Router</span>
+            <span>Puter.js</span>
           </div>
         </motion.div>
 
@@ -74,15 +73,14 @@ export const Projects = () => {
             whileHover={{ scale: 1.05 }}
             transition={{ duration: 0.2 }}
           />
-          <h3>Social Media Dashboard</h3>
+          <h3>Befit</h3>
           <p>
-            A comprehensive social media management dashboard with analytics,
-            scheduling, and engagement tracking features.
+            Befit is a cutting-edge AI fitness trainer powered by Next.js, TensorFlow.js, and Tailwind CSS, delivering personalized workouts, real-time pose analysis, and adaptive coaching through a responsive interface that blends server-side rendering with intelligent browser-based motion tracking.
           </p>
           <div className="project-tech">
-            <span>React</span>
-            <span>Node.js</span>
-            <span>MongoDB</span>
+            <span>Next.js</span>
+            <span>TensorFlow.js</span>
+            <span>Tailwind CSS</span>
           </div>
         </motion.div>
 
@@ -99,14 +97,15 @@ export const Projects = () => {
             whileHover={{ scale: 1.05 }}
             transition={{ duration: 0.2 }}
           />
-          <h3>Productivity Timer</h3>
+          <h3>Coderek</h3>
           <p>
-            A sleek productivity timer application with customizable work
-            sessions, statistics tracking, and dark mode support.
+            Coderek is a scalable video interview platform built with Next.js, Stream, and Convex, offering secure real-time calls, collaborative code editing, and intelligent session workflows through a responsive interface powered by Clerk authentication and modular React components.
           </p>
           <div className="project-tech">
             <span>React</span>
+            <span>Next.js</span>
             <span>TypeScript</span>
+            <span>JavaScript</span>
             <span>TailwindCSS</span>
           </div>
         </motion.div>
