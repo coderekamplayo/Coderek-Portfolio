@@ -92,14 +92,14 @@ export const Projects = () => {
           <motion.div
             className="project-image"
             style={{
-              backgroundImage: "url('/projects/stopwatch.png')",
+              backgroundImage: "url('/projects/codrek.jpg')",
             }}
             whileHover={{ scale: 1.05 }}
             transition={{ duration: 0.2 }}
           />
-          <h3>Coderek</h3>
+          <h3>Codrek</h3>
           <p>
-            Coderek is a scalable video interview platform built with Next.js, Stream, and Convex, offering secure real-time calls, collaborative code editing, and intelligent session workflows through a responsive interface powered by Clerk authentication and modular React components.
+            Codrek is a scalable video interview platform built with Next.js, Stream, and Convex, offering secure real-time calls, collaborative code editing, and intelligent session workflows through a responsive interface powered by Clerk authentication and modular React components.
           </p>
           <div className="project-tech">
             <span>React</span>
