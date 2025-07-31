@@ -68,7 +68,7 @@ export const Projects = () => {
           <motion.div
             className="project-image"
             style={{
-              backgroundImage: "url('/projects/social-media.png')",
+              backgroundImage: "url('/projects/Befit.jpg')",
             }}
             whileHover={{ scale: 1.05 }}
             transition={{ duration: 0.2 }}
