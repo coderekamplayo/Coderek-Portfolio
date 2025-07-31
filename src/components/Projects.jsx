@@ -46,7 +46,7 @@ export const Projects = () => {
         >
           <motion.div
             className="project-image"
-            style={{ backgroundImage: "url('/projects/ai-saas.png')" }}
+            style={{ backgroundImage: "url('/projects/retrack.jpg')" }}
             whileHover={{ scale: 1.05, transition: { duration: 0.2 } }}
           />
           <h3>Retrack</h3>
